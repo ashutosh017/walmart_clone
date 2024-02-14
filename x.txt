@@ -1,1 +1,0 @@
-curl 'https://realtime.oxylabs.io/v1/queries' --user 'ashutosh019:ashutos5352D' -H 'Content-Type: application/json' -d '{"source": "amazon_search", "query": "shoes", "domain": "com", "geo_location": "90210", "parse": true}' 
